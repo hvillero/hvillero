@@ -9,7 +9,7 @@ I'm a senior developer, designer, and architect with a seasoned history in objec
 Passion drives me. I have an ardent love for constructing high-caliber web applications that strike a balance between functionality and user experience. The tech world is ever-evolving, and I take pride in my commitment to continuous learning and professional growth.
 
 ## 🌎 Personal Journey
-Originally from Colombia, Toronto, Canada has been my home for the past 20 years. The blend of these cultures has enriched my perspective, making me an adaptable and versatile developer.
+Originally from Colombia. But now from Toronto, Canada it has been my home for the past 20 years. The blend of these cultures has enriched my perspective, making me an adaptable and versatile developer.
 
 ## 🤝 Collaboration and Values
 I thrive in environments that cherish teamwork, innovation, and excellence. I'm keen to offer my skills and expertise to teams that share these values.
