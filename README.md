@@ -1,6 +1,6 @@
 # Hhow am I? 👋
 
-My Name is Hugo Villero, I'm a senior developer, designer, and architect with experience in object-oriented design and development using Ruby on Rails, as well as PHP, JavaSript and other languages. I have a passion for building high-quality web applications that are both functional and user-friendly. I'am a from Colombia but I've been living in Toronto Canada for the last 20 years. , I'm an adaptable and versatile developer with a commitment to ongoing learning and professional development. I'm excited about the opportunity to bring my skills and experience to a team that values collaboration, innovation, and excellence.
+My Name is Hugo Villero, I'm a senior developer, designer, and architect with experience in object-oriented design and development using Ruby on Rails, as well as PHP, JavaSript and other languages. I have a passion for building high-quality web applications that are both functional and user-friendly. I'm excited about the opportunity to bring my skills and experience to a team that values collaboration, innovation, and excellence.
 
 ## 🚀 Profession
 I'm a senior developer, designer, and architect with a seasoned history in object-oriented design and development. Over the years, I've honed my expertise in **Ruby on Rails**, but I'm also proficient in other programming languages.
