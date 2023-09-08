@@ -1,15 +1,12 @@
-<table>
-<tr>
-<td>
-  
-![Hugo Villero](./hugo_linkedin_picture.jpeg)
+<p align="center">
+  <img src="./hugo_linkedin_picture.jpeg" alt="Hugo Villero" width="200"/>
+</p>
 
-</td>
-<td>
+<h2 align="center">Let's talk About Me 🚀</h2>
 
-<h2>Let's talk About Me 🚀</h2>
-
+<p align="center">
 Hello there! I'm Hugo Villero, a seasoned developer with a passion that goes beyond code. While I thrive in the realm of web / mobile development and technology, my heart also resonates with the call of nature and the joy of human connection.
+</p>
 
 ---
 
@@ -52,6 +49,3 @@ Early mornings and late evenings are my peak productivity windows. The tranquili
 <h3>Where to find me...</h3>
 
 If you're as enthusiastic about technology, sports, or the beauty of nature as I am, let's strike up a conversation. You can find me on [LinkedIn](https://www.linkedin.com/in/hugovillero/).
-</td>
-</tr>
-</table>
