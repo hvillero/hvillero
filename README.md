@@ -45,3 +45,4 @@ Early mornings and late evenings are my peak productivity windows. The tranquili
 <h3>Where to find me...</h3>
 
 If you're as enthusiastic about technology, sports, or the beauty of nature as I am, let's strike up a conversation. You can find me on [LinkedIn](https://www.linkedin.com/in/hugovillero/).
+<p>------------</p>
