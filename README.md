@@ -1,15 +1,19 @@
-# Who am I? 👋
+## Who Am I?
+Hello there! I'm Hugo Villero, a seasoned developer with a passion that goes beyond code. While I thrive in the realm of web / mobile development and technology, my heart also resonates with the call of nature and the joy of human connection.
 
-My Name is Hugo Villero, I'm a senior developer, designer, and architect with experience in object-oriented design and development using Ruby on Rails, as well as PHP, JavaSript and other languages. I have a passion for building high-quality web applications that are both functional and user-friendly. I'm excited about the opportunity to bring my skills and experience to a team that values collaboration, innovation, and excellence.
+---
 
 ## Profession
-I'm a senior developer, designer, and architect with a seasoned history in object-oriented design and development. Over the years, I've honed my expertise in **Ruby on Rails**, but I'm also proficient in other programming languages.
+I'm a senior developer, designer, and architect with a seasoned object-oriented design and development history. Over the years, I've honed my expertise in **Ruby on Rails**, and I'm also proficient in other programming languages. I have a penchant for **Mac OS** and am enthusiastic about **virtualization**. I'm diving deep into **AI** and **big data processing**, and I am always eager to expand my tech horizons. Meeting people from different cultures and backgrounds in the professional realm enriches my experience and perspective.
 
 ## My Drive
-Passion drives me. I have an ardent love for constructing high-caliber web applications that strike a balance between functionality and user experience. The tech world is ever-evolving, and I take pride in my commitment to continuous learning and professional growth.
+Driven by passion, I'm committed to constructing high-calibre web applications that seamlessly merge functionality and user experience. My commitment to continuous learning and professional growth remains unwavering, with the tech landscape constantly shifting.
 
 ## Personal Journey
-Originally from Colombia. But now from Toronto, Canada it has been my home for the past 20 years. The blend of these cultures has enriched my perspective, making me an adaptable and versatile developer.
+Originally hailing from Colombia, I've made Toronto, Canada, my home for 20 years. This blend of cultures has enriched my perspective and made me a versatile and adaptable developer.
+
+## Personal Interests
+When I'm not coding, you might find me chasing the thrill of **running** or relishing the tranquillity of nature through **hiking** and **camping**. The gentle glide of a **kayak** on water is one of my most cherished experiences.
 
 ## Collaboration and Values
-I thrive in environments that cherish teamwork, innovation, and excellence. I'm keen to offer my skills and expertise to teams that share these values.
+I thrive in environments that hold teamwork, innovation, and excellence in high regard. I'm keen to bring my skills and expertise to teams that resonate with these values.
