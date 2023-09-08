@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="URL_TO_YOUR_PICTURE" alt="Hugo Villero" width="200"/>
+  <img src="./hugo_linkedin_picture.jpeg" alt="Hugo Villero" width="200"/>
 </p>
 
 <h2 align="center">Let's talk About Me 🚀</h2>
