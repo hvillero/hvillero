@@ -8,7 +8,7 @@ Hello there! I'm Hugo Villero, a seasoned developer with a passion that goes bey
 
 <h3>Professional Journey</h3>
 
-I'm a senior developer, designer, and architect. Over the years, I've honed my expertise in **Ruby on Rails**, and I'm also proficient in other programming languages. I have a penchant for **Mac OS** and am enthusiastic about **virtualization**. I'm diving deep into **AI** and **big data processing**, and I am always eager to expand my tech horizons. Meeting people from different cultures and backgrounds in the professional realm enriches my experience and perspective.
+As a senior Full Stack Developer. Over the years, I've honed my expertise in **Ruby on Rails**, and I'm also proficient in other programming languages. I have a penchant for **Mac OS** and am enthusiastic about **virtualization**. I'm diving deep into **AI** and **big data processing**, and I am always eager to expand my tech horizons. Meeting people from different cultures and backgrounds in the professional realm enriches my experience and perspective.
 
 <h3>Personal Journey</h3>
 
